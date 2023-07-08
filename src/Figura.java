@@ -1,6 +1,4 @@
-public class Figura {
+public abstract class  Figura {
     private String colorFondo;
-    public float calcularArea() {
-        return 0;
-    }
+    public abstract float calcularArea();
 }
