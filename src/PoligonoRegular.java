@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PoligonoRegular {
+public class PoligonoRegular extends Figura {
     protected float base;
     protected float altura;
 
